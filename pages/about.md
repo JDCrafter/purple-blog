@@ -1,17 +1,17 @@
 ---
-title: About Me
+title: Über Mich
 description: All about me in this page
 layout: layouts/post.njk
 hideTagsList: true
 eleventyNavigation:
-  key: About
+  key: Über Mich
   weight: 2
 ---
 
 
-consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id nibh tortor id aliquet lectus. Sit amet consectetur adipiscing elit duis. A diam maecenas sed enim ut. Dolor sit amet consectetur adipiscing elit pellentesque habitant. Gravida neque convallis a cras semper auctor. Quisque sagittis purus sit amet volutpat consequat mauris nunc congue. Dolor sed viverra ipsum nunc aliquet bibendum. Netus et malesuada fames ac turpis egestas sed tempus. Nunc sed augue lacus viverra. Potenti nullam ac tortor vitae. Nunc mi ipsum faucibus vitae aliquet nec ullamcorper. 
+Ich habe diese Website gebaut. Das ist toll.
 
-## Erat pellentesque adipiscing commodo elit at imperdiet.
+## Warum nur?
 
 Ultrices in iaculis nunc sed augue lacus viverra vitae. Porttitor leo a diam sollicitudin. Nunc congue nisi vitae suscipit. Odio morbi quis commodo odio aenean sed adipiscing diam donec. 
 
