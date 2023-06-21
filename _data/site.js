@@ -2,8 +2,8 @@ module.exports = {
   meta: {
     title: "Julians toller Blog",
     description: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-    lang: "en",
-    siteUrl: "https://example.com/",
+    lang: "de",
+    siteUrl: "https://julian.dreidumme.de/",
   },
   feed: { // used in feed.xml.njk
     subtitle: "Lorem ipsum dolor sit amet consecuteor",
@@ -14,7 +14,7 @@ module.exports = {
     authorEmail: "johndoe@example.com"
   },
   hero: { // used in hero section of main page ie. index.html.njk
-    title: "Welcome to my purple blog",
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores accusantium deserunt odio esse."
+    title: "Willkommen auf meiner Netz-Seite",
+    description: "Das ist erstmal ein Test"
   }
 }
