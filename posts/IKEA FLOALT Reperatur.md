@@ -1,6 +1,6 @@
 ---
 author: "Ich"
-title: IKEA FLOALT Reperatur
+title: IKEA FLOALT Reparatur
 date: 2021-03-20
 description: Reperatur von flackernder IKEA Lampe
 tags:
@@ -9,7 +9,7 @@ tags:
   - Elektro
   - IKEA
 ---
-**Achtung! Versucht diese Reparatur nur, wenn ihr die Gefahren versteht. Hierbei können tödliche Spannungen offenliegen.**
+**Achtung! Versucht diese Reparatur nur, wenn ihr die Gefahren versteht. Hierbei können tödliche Spannungen offenliegen.**  
 Das IKEA Trdåfri System ist einfach und zuverlässig, denn es ist ja von einem großen Unternehmen. Denkt man.
 Nach einigen Monaten oder Jahren fangen einige FLOALT LED-Paneele an zu flackern. Bei mir flackert das Paneel bei höheren Helligkeiten.
 
@@ -30,7 +30,7 @@ Nehmt das Paneel von der Wand oder Decke ab, dazu müsst ihr die Schrauben auf d
 
 Nun könnt ihr das Paneel abnehmen und ablegen. Versucht, die Vorderseite nicht zu zerkratzen. Dann könnt ihr auch den LED-Stecker abstecken und die zwei Schrauben vom Driver-Modul lösen.  
 
-**ACHTUNG! Ab Hier gibt es Hochspannung! Seid Vorsichtig!**
+**ACHTUNG! Ab Hier gibt es Hochspannung! Seid Vorsichtig!**  
 Die Kondensatoren werden zwar dank entsprechender Wiederstände schnell entladen, es kann aber trotzdem noch eine hohe Spannung vorhanden sein. Messt lieber nach.
 
 Nun könnt ihr das Driver-Modul öffnen, indem ihr die Schrauben auf der Rückseite löst. Der Wiederstand R6 befindet sich auf der Rückseite, also auf der Seite ohne große Elektrolyt-Kondensatoren.  
