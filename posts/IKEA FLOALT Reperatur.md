@@ -10,18 +10,18 @@ tags:
   - IKEA
 ---
 **Achtung! Versucht diese Reparatur nur, wenn ihr die Gefahren versteht. Hierbei können tödliche Spannungen offenliegen.**  
-Das IKEA Trdåfri System ist einfach und zuverlässig, denn es ist ja von einem großen Unternehmen. Denkt man.
+Das IKEA Trådfri System ist einfach und zuverlässig, denn es ist ja von einem großen Unternehmen. Denkt man.
 Nach einigen Monaten oder Jahren fangen einige FLOALT LED-Paneele an zu flackern. Bei mir flackert das Paneel bei höheren Helligkeiten.
 
 Zum Glück hat u/hulpfinger [auf Reddit](https://www.reddit.com/r/tradfri/comments/ac9vqr/blinking_flickering_floalt_panel/) bereits eine Lösung gefunden.
 ### Das Problem:
 ![Das Board](https://preview.redd.it/nden6bwcn9821.jpg?width=800&format=pjpg&auto=webp&v=enabled&s=d2747148245fc63262da49d5f6f66586f4c38a09)
-_Bild von u/hulpfinger_
+_Bild von u/hulpfinger_  
 Der Wiederstand R6 mit 47 Ohm auf der Board ist kaputt. Der Wiederstand sieht zwar nicht kaputt aus, aber wenn man nachmisst, dann wird ein vielfaches von den eigentlichen 47 Ohm angezeigt. Also muss dieser ersetzt werden. 
 ### Das Ersatzteil:
  * Der Originalwiederstand hat die Größe 1206 und verkraftet 250mW.  
  [Hier bei Reichelt](https://www.reichelt.de/smd-widerstand-1206-47-ohm-250-mw-1--wal-wr12x47r0ftl-p346682.html?&trstct=pos_0&nbc=1)
- * Da dieser aber offensichtlich nicht groß genug ist, empfehle ich einen stärkeren. Ein passender, kräftiger Wiederstand hat die Größe 0204 und verkraftet 400mW.
+ * Da dieser aber offensichtlich nicht stark genug ist, empfehle ich einen stärkeren. Ein passender, kräftiger Wiederstand hat die Größe 0204 und verkraftet 400mW.
  [Hier bei Reichelt](https://www.reichelt.de/melf-widerstand-0204-47-ohm-400-mw-1--vit-zc204-47r-p277736.html?&trstct=pos_1&nbc=1)
  * Optional könnt ihr auch versuchen, einen axialen Wiederstand zu verlöten.
  [Hier bei Reichelt](https://www.reichelt.de/widerstand-metalloxyd-47-ohm-0207-1-0-w-5--1w-47-p1824.html?&trstct=pos_3&nbc=1)
