@@ -1,3 +1,10 @@
 node_modules
 .vscode
 _site
+posts/.obsidian/app.json
+posts/.obsidian/appearance.json
+posts/.obsidian/core-plugins-migration.json
+posts/.obsidian/core-plugins.json
+posts/.obsidian/graph.json
+posts/.obsidian/hotkeys.json
+posts/.obsidian/workspace.json
