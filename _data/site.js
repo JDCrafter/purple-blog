@@ -1,7 +1,7 @@
 module.exports = {
   meta: {
     title: "Julians toller Blog",
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    description: "Ein einfacher Blog über Elektronik und so.",
     lang: "de",
     siteUrl: "https://julian.dreidumme.de/",
   },

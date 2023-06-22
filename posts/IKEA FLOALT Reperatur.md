@@ -2,7 +2,7 @@
 author: "Ich"
 title: IKEA FLOALT Reparatur
 date: 2021-03-20
-description: Reperatur von flackernder IKEA Lampe
+description: Reperatur von flackernder IKEA Lampe.
 tags:
   - markdown
   - DIY
