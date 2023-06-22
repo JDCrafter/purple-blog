@@ -11,4 +11,5 @@
   
 	cache-control = '''
 	max-age=86.400,
-	must-revalidate'''
+	must-revalidate,
+  public'''
