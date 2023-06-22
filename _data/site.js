@@ -1,6 +1,6 @@
 module.exports = {
   meta: {
-    title: "Julians toller Blog",
+    title: "Julians Blog",
     description: "Ein einfacher Blog über Elektronik und so.",
     lang: "de",
     siteUrl: "https://julian.dreidumme.de/",
@@ -15,6 +15,6 @@ module.exports = {
   },
   hero: { // used in hero section of main page ie. index.html.njk
     title: "Willkommen auf meiner Netz-Seite",
-    description: "Das ist erstmal ein Test"
+    description: "Mein kleiner Blog über Sachen, die ich so mache."
   }
 }
