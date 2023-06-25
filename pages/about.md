@@ -6,6 +6,7 @@ hideTagsList: true
 eleventyNavigation:
   key: Über Mich
   weight: 2
+  order: 2
 ---
 
 
