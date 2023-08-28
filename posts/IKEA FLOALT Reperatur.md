@@ -9,7 +9,9 @@ tags:
   - Elektro
   - IKEA
 ---
-**Achtung! Versucht diese Reparatur nur, wenn ihr die Gefahren versteht. Hierbei können tödliche Spannungen offenliegen.**  
+> [!warning]
+> **Achtung! Versucht diese Reparatur nur, wenn ihr die Gefahren versteht. Hierbei können tödliche Spannungen offenliegen.**  
+
 Das IKEA Trådfri System ist einfach und zuverlässig, denn es ist ja von einem großen Unternehmen. Denkt man.
 Nach einigen Monaten oder Jahren fangen einige FLOALT LED-Paneele an zu flackern. Bei mir flackert das Paneel bei höheren Helligkeiten.
 
