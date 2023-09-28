@@ -20,7 +20,7 @@ Zum Glück hat u/hulpfinger [auf Reddit](https://www.reddit.com/r/tradfri/commen
 _Bild von u/hulpfinger_  
 Der Wiederstand R6 mit 47 Ohm auf der Board ist kaputt. Der Wiederstand sieht zwar nicht kaputt aus, aber wenn man nachmisst, dann wird ein vielfaches von den eigentlichen 47 Ohm angezeigt. Also muss dieser ersetzt werden. 
 ### Das Ersatzteil:
- * Der Originalwiederstand hat die Größe 1206 und verkraftet 250mW.  
+ * Der Originalwiderstand hat die Größe 1206 und verkraftet 250mW.  
  [Hier bei Reichelt](https://www.reichelt.de/smd-widerstand-1206-47-ohm-250-mw-1--wal-wr12x47r0ftl-p346682.html?&trstct=pos_0&nbc=1)
  * Da dieser aber offensichtlich nicht stark genug ist, empfehle ich einen stärkeren. Ein passender, kräftiger Wiederstand hat die Größe 0204 und verkraftet 400mW.
  [Hier bei Reichelt](https://www.reichelt.de/melf-widerstand-0204-47-ohm-400-mw-1--vit-zc204-47r-p277736.html?&trstct=pos_1&nbc=1)
