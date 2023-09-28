@@ -9,9 +9,6 @@ eleventyNavigation:
   order: 2
 ---
 
-
-Ich habe diese Website gebaut. Das ist toll.
-
 ## Wer bin ich?
 
 Hi, ich bin Julian, lebe in Aachen, studiere Computer Engineering an der RWTH und poste hier über das, was mich interessiert.
