@@ -3,7 +3,7 @@ module.exports = {
     title: "Julians Blog",
     description: "Ein einfacher Blog über Elektronik und so.",
     lang: "de",
-    siteUrl: "https://julian.dreidumme.de/",
+    siteUrl: "https://julwern.de/",
   },
   feed: { // used in feed.xml.njk
     subtitle: "Lorem ipsum dolor sit amet consecuteor",
