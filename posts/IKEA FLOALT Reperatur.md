@@ -39,4 +39,4 @@ Lötet den Wiederstand ab. Ihr könnt auch die nebenliegende Diode D3 als Hebelp
 Danach wird der neue Wiederstand angelötet. Am besten macht ihr erst etwas Lötzinn auf die beiden Stellen. Dann könnt ihr den Wiederstand mit einer Pinzette in Position halten. Nun könnt ihr mit dem Lötkolben erst die eine, dann die andere Seite festschmelzen. Achtet darauf, dass ihr keine Verbindung von den Lötstellen von R6 zu D3 herstellt.
 **Achtung! Testet das Board nicht, ohne das Cover wieder zu schließen. Ansonsten habt ihr offenliegende, tödliche Spannung!**
 
-Ich hoffe ich konnte jemandem mit diesem Tutorial helfen. :-D
+Ich hoffe ich konnte jemandem mit diesem Tutorial helfen. :D
